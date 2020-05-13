@@ -1,2 +1,2 @@
 # FertilizerCalAppLandingPage
-Landing page for Fertilicer App Calc
+Landing page for iOS App
