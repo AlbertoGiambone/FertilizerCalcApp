@@ -96,3 +96,23 @@ padding-top: 20px;
 padding-left: 35px;
 background-color: gb(255,255,255);
 }
+
+#herbSectionDescrip{
+  font-weight: 600;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  padding-top: 20px;
+  background-color: rgb(255,255,255);
+
+  #download{
+    padding-bottom: 60px;
+    display: block;
+    margin-left: auto;
+    margin-right:
+    
+  }
+
+}
